@@ -12,7 +12,7 @@
 # Watch (before class)
 
 - [Gradebook Driver](https://mediaspace.berry.edu/media/unit0-lecture10-gradebook-driver/1_mk7wlzk5) [7 mins]
-
+  The [final code](final/) for this lecture in this repository defines the test class using the approach we are following this semester.
 
 ---
 # Assignment
